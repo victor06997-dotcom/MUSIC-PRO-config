@@ -1,0 +1,19 @@
+{
+  "version": "2026.10.18-1",
+  "nota": "Listas de servidores de MUSIC-PRO. Puedes editar este archivo y la app lo toma solo (una vez al dia). Solo se aceptan dominios https de la lista permitida en remote_config.dart.",
+  "cobalt": [
+    "https://api.cobalt.tools",
+    "https://cobalt-backend.canine.tools",
+    "https://cobalt-api.kwiatekmiki.com",
+    "https://cobalt-api.meowing.de",
+    "https://cobalt-api.0x7d0.dev"
+  ],
+  "instances": [
+    "https://pipedapi.kavin.rocks",
+    "https://pipedapi.adminforge.de",
+    "https://piped.ducks.party",
+    "https://inv.nadeko.net",
+    "https://yewtu.be",
+    "https://invidious.nerdvpn.de"
+  ]
+}
